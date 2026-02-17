@@ -23,7 +23,7 @@ Instead of following the traditional model of “memorize – test – certify,�
 
 -- 
 
-🎯 Mission
+### 🎯 Mission
 
 #### 1. Develop adaptive learning frameworks tailored to individual cognitive profiles.
 
