@@ -5,11 +5,11 @@ AI For Education
   <img src="assets/AIC-education.png" alt="AIC Logo" width="1024" length = "1024"/>
 </p>
 
-Rebuilding Human Learning for the Adaptive Era
+> Rebuilding Human Learning for the Adaptive Era
 
-AIC-Education is the educational branch of the Adaptive Intelligence Circle (AIC). It focuses on redesigning learning systems for the age of Adaptive Intelligence.
+**AIC-Education is the educational branch of the Adaptive Intelligence Circle (AIC). It focuses on redesigning learning systems for the age of Adaptive Intelligence.** 
 
-Instead of following the traditional model of “memorize – test – certify,” AIC-Education aims to build:
+Instead of following the traditional model of “memorize – test – certify”,  AIC-Education aims to build:
 
 🧠 Adaptive Learning Systems
 
@@ -21,7 +21,7 @@ Instead of following the traditional model of “memorize – test – certify,�
 
 🤝 Human–AI Collaboration Models
 
--- 
+--- 
 
 ### 🎯 Mission
 
@@ -68,6 +68,7 @@ AIC-Education/
 └── Contributing.md
 
 ```
+--- 
 
 ### 🧩 Core Principles
 
@@ -81,6 +82,8 @@ AIC-Education/
 
 - Knowledge without ethical grounding is structurally unstable.
 
+--- 
+
 ### 🌍 Long Term Vision
 
 AIC-Education is not merely an open-source repository. It is an experimental framework for restructuring how civilization approaches:
@@ -92,5 +95,11 @@ AIC-Education is not merely an open-source repository. It is an experimental fra
 - Human–AI coexistence
 
 - Sustainable civilizational development
+
+--- 
+
+### LICENSE 
+
+GENERAL PUBLIC LICENSE - GNU GPL-3.0
 
 
